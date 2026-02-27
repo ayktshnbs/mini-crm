@@ -1,4 +1,4 @@
-# 🚀 Mini CRM – Full Stack MERN Application
+#  Mini CRM – Full Stack MERN Application
 
 🔗 **Live Demo:** https://mini-crm-opal.vercel.app/  
 🌐 **Backend:** Render (Node + Express)  
@@ -9,7 +9,7 @@ The project demonstrates CRUD operations, cloud deployment, environment configur
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Create React App)
@@ -29,7 +29,7 @@ The project demonstrates CRUD operations, cloud deployment, environment configur
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add new leads
 - Delete leads
@@ -40,7 +40,7 @@ The project demonstrates CRUD operations, cloud deployment, environment configur
 
 ---
 
-## 📂 Project Structure (Monorepo)
+##  Project Structure (Monorepo)
 
 mini-crm/
 │
@@ -51,7 +51,7 @@ mini-crm/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint        | Description |
 |--------|-----------------|-------------|
