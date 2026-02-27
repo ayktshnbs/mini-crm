@@ -71,10 +71,9 @@ mini-crm/
 
 ## Clone repository
 
-```bash
 git clone https://github.com/ayktshnbs/mini-crm.git
 cd mini-crm
-```
+
 
 Install dependencies
 npm install
