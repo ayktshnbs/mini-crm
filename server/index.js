@@ -21,7 +21,12 @@ const PORT = process.env.PORT || 5000;
 
 async function start() {
   try {
-    await mongoose.connect(process.env.MONGODB_URI);
+    if (!process.env.MONGODB_URI) {
+  console.error("MONGODB_URI is missing ❌");
+  process.exit(1);
+  }
+    await 
+     mongoose.connect(process.env.MONGODB_URI);
     console.log("MongoDB connected ✅");
 
     app.listen(PORT, "0.0.0.0", () => {
