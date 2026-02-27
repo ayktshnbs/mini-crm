@@ -67,7 +67,8 @@ mini-crm/
 {
   "name": "Aykut",
   "email": "aykut@mail.com"
-} ```
+} 
+```
 
 ## Clone repository
 
